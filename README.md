@@ -1,4 +1,4 @@
-# 🧪 Atelier PHP – Installation et Premiers Exercices
+# 👩‍💻 Atelier PHP – Installation et Premiers Exercices
 
 Ce projet a été réalisé dans le cadre de l’atelier :
 **Installation, configuration et premiers exercices PHP avec XAMPP**  
@@ -65,6 +65,6 @@ Ce projet montre :
 
 ---
 
-👩‍🎓 Réalisé par : **Sara Hajji** et  : **Hanane EL AASRAOUI**
+👩‍🎓 Réalisé par : **Sara Hajji** et   **Hanane EL AASRAOUI**
 📚 Filière : **ILCS**  
 📅 Année universitaire : 2024/2025
